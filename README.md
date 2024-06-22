@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h1 align="center">Hi 👋, I'm Martin and I'm looking for a dev job</h1>
 <h3 align="center">A passionate developer with a business and ecommerce background :</h3>
 
 - 🔭 I’m currently working on **many front projects**
